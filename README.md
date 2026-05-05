@@ -19,19 +19,3 @@
 g++ syntactic_analyzer.cpp -o analyzer
 ./analyzer
 ```
-
-## Загрузка на GitHub
-1. Инициализируйте репозиторий:
-   ```
-   git init
-   git add .
-   git commit -m "Initial commit: syntax analyzer"
-   git branch -M main
-   git remote add origin https://github.com/ВАШ_ЛОГИН/ВАШ_РЕПОЗИТОРИЙ.git
-   git push -u origin main
-   ```
-2. Проверьте, что все файлы (`syntactic_analyzer.cpp`, `lexical_analizer.h`, `source_code.txt`, `README.md`) добавлены в репозиторий.
-
----
-
-Если потребуется, добавьте инструкции по сборке для вашей IDE или платформы.
