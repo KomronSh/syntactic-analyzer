@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="syntax_analiser.vcxproj" Id="898c85a4-cba9-4896-a4e0-855d4a1ae292" />
+</Solution>

@@ -1,0 +1,7 @@
+Var a, b, c, d :Boolean;
+Begin
+a = .NOT. 0;
+b = .NOT. 1;
+c =  a .OR. b;
+d = (c .XOR. a) .AND. b;
+End.

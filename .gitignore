@@ -1,0 +1,31 @@
+# Visual Studio directories
+.vs/
+Debug/
+Release/
+x64/
+Win32/
+
+# Build output
+*.ilk
+*.exe
+*.obj
+*.lib
+*.pdb
+
+# Visual Studio project files
+*.vcxproj.user
+*.sln.DotSettings
+
+# Object files and executables
+*.o
+*.so
+*.a
+*.dll
+*.exe
+
+# Directories
+syntacti.898c85a4/
+
+# Temporary files
+*.tmp
+*.log
